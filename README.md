@@ -6,8 +6,9 @@ When you execute the app, it automatically copies the OTP to the clipboard.
 
 So far only tested with `OpenVPN` 
 
+![pic](http://i.imgur.com/R9BFGgh.png)
 
-
+![pic](http://i.imgur.com/wlkx0OR.png)
 
 ### How's it work
 
