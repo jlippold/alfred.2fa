@@ -41,10 +41,10 @@ Remove
 
 ```
 format:
-2f remove ServerName
+2f delete ServerName
 
 example:
-2f remove AmazonAWS
+2f delete AmazonAWS
 ```
 
 
