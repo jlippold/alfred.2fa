@@ -12,7 +12,7 @@ So far only tested with `OpenVPN`
 ### How's it work
 
 1. Install Node http://nodejs.org/download/
-2. Install this workflow
+2. Install this workflow. Save this and open it: https://github.com/jlippold/alfred.2fa/raw/master/2FA.alfredworkflow
 
 ### Usage
 
@@ -50,5 +50,7 @@ example:
 ### Credits 
 
 Alfred Feedback: https://github.com/lrrfantasy/alfred-feedback-xml-generation
+
 OPT generation: https://www.npmjs.org/package/onceler
+
 Icons: http://fortawesome.github.io/Font-Awesome/
