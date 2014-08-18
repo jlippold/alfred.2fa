@@ -1,10 +1,10 @@
 #### What is this?
 
-This is an alfred workflow that adds one time passwords (aka 2 factor auth) to Alfred
+This is an alfred workflow that adds one time passwords (aka 2 factor auth) to Alfred.app
 
-When you execute the app, it automatically copies the OTP to the clipboard.
+When you execute the app, it automatically copies the one time password to the clipboard.
 
-So far only tested with `OpenVPN` 
+So far tested with `OpenVPN` & `Github`
 
 ![pic](http://i.imgur.com/R9BFGgh.png)
 
@@ -13,7 +13,10 @@ So far only tested with `OpenVPN`
 ### How's it work
 
 1. Install Node http://nodejs.org/download/
-2. Install this workflow. Save this and open it: https://github.com/jlippold/alfred.2fa/raw/master/2FA.alfredworkflow
+2. Install this workflow by clicking this https://github.com/jlippold/alfred.2fa/raw/master/2FA.alfredworkflow, then opening in finder.
+3. Setup 2FA with some service (github, openVPN). Scan the barcode into your mobile app (authy, google authenticator) and note the secret key.
+4. input the secret key into alfred.app `2f add someService secretKey`
+5. call it anytime to get the one time password `2f someService`
 
 ### Usage
 
