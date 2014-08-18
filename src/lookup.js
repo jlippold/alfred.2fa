@@ -20,8 +20,8 @@ servers.forEach(function(server) {
 			valid: 'yes',
 			autocomplete: server.name
 		});
-		id++;
 	}
+	id++; 
 });
 
 console.log(items.toString());
