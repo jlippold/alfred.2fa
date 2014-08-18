@@ -1,8 +1,6 @@
 #### What is this?
 
-This is an alfred workflow that adds one time passwords (aka 2 factor auth) to Alfred.app
-
-When you execute the app, it automatically copies the one time password to the clipboard.
+This is an alfred workflow that allows you to retrieve the one time password for sites that use two factor authentication. You set up the sites in alfred.app, then you can pull the one time password for the site at any time with alfred. The password is automatically copied to the clipboard. This can and should be used in conjunction with another 2fa method.
 
 So far tested with `OpenVPN` & `Github`
 
