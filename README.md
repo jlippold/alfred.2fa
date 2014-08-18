@@ -2,7 +2,7 @@
 
 This is an alfred workflow that allows you to retrieve the one time password for sites that use two factor authentication. You set up the sites in alfred.app, then you can pull the one time password for the site at any time with alfred. The password is automatically copied to the clipboard. This can and should be used in conjunction with another 2fa method.
 
-So far tested with `OpenVPN` & `Github`
+So far tested with `OpenVPN`, `Github`, `Amazon`
 
 ![pic](http://i.imgur.com/R9BFGgh.png)
 
